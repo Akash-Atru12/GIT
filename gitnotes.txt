@@ -1,0 +1,5 @@
+git = version controlling system -is a software development practice that helps track and manage changes to file and code
+free and open source version control system
+
+Advantages of github : Stroring your code in a "repository" on Github code
+> colloborate and change the code and use shared project
